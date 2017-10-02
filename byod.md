@@ -18,7 +18,7 @@ This module aims to introduce some simple tools and methodologies for managing m
 * Have identified and tested a solution for MDM/BYOD if relevant to their organisation### Recommend Preparations
 
 ### Recommend Preparations  
-Print off copies of example MDM/BYOD policies.
+Print off copies of example MDM/BYOD policies. (see below)
 
 It is recommended that the trainer have already prior experience setting up at least one or two of the MDM/BYOD tools. Where possible it makes sense to have training account that can be used during the module.
 
