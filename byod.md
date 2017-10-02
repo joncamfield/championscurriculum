@@ -10,7 +10,7 @@ However managing mobile devices securely is complex. They have as much, if not m
 This module aims to introduce some simple tools and methodologies for managing mobile devices in an organisation. 
 
 ### Learning Goals
-* Understand positives/negatives of MDM / BYOD policies
+* Understand positives/negatives of MDM/BYOD policies
 * Exam some common options for simple MDM within an organisation
 
 ### Assessment Goals
@@ -18,7 +18,7 @@ This module aims to introduce some simple tools and methodologies for managing m
 * Have identified and tested a solution for MDM/BYOD if relevant to their organisation### Recommend Preparations
 
 ### Recommend Preparations  
-Print off copies of example BYOD/MDM policies.
+Print off copies of example MDM/BYOD policies.
 
 It is recommended that the trainer have already prior experience setting up at least one or two of the MDM/BYOD tools. Where possible it makes sense to have training account that can be used during the module.
 
